@@ -1,0 +1,106 @@
+{
+    "cursos":[
+     {
+      "Nombre": "JAVASCRIPT",
+      "Descripcion": "Curso gratuito",
+      "Url": "https://edutin.com/curso-de-javascript-4284",
+      "Categoria": "Lenguaje de programacion"
+     },
+     {
+      "Nombre": "JAVASCRIPT ",
+      "Descripcion": "Curso gratuito",
+      "Url": "https://aprendejavascript.org/",
+      "Categoria": "Lenguaje de programacion"
+     },
+     {
+      "Nombre": "APIS",
+      "Descripcion": "Cursos sobre Apis Rest",
+      "Url": "https://cuarzo.dev/recursos?free=false&search=&tagSelected=API&page=1&pageLimit=20&approved=true",
+      "Categoria": "Api Rest"
+     },
+     {
+      "Nombre": "APIS",
+      "Descripcion": "Cursos sobre Apis Rest",
+      "Url": "https://cuarzo.dev/recursos?free=false&search=&tagSelected=API&page=1&pageLimit=20&approved=true",
+      "Categoria": "Api Rest"
+     },
+     {
+      "Nombre": "BASES DE DATOS",
+      "Descripcion": "Cursos de bases de datos",
+      "Url": "https://cuarzo.dev/recursos?free=false&search=&tagSelected=Bases%20de%20datos&page=1&pageLimit=20&approved=true",
+      "Categoria": "Bases de datos"
+     },
+     {
+      "Nombre": "HTML ",
+      "Descripcion": "Recursos de HTML ",
+      "Url": "https://cuarzo.dev/recursos?free=false&search=&tagSelected=HTML&page=1&pageLimit=20&approved=true",
+      "Categoria": "Lenguaje de programacion"
+     },
+     {
+      "Nombre": "HTML ",
+      "Descripcion": "Recursos de HTML ",
+      "Url": "https://cuarzo.dev/recursos?free=false&search=&tagSelected=HTML&page=1&pageLimit=20&approved=true",
+      "Categoria": "Lenguaje de programacion"
+     },
+     {
+      "Nombre": "JAVA",
+      "Descripcion": "Portal udemy cursos",
+      "Url": "https://www.udemy.com/es/topic/java/free/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-Search_DSA_GammaCatchall_NonP_la.ES_cc.ROW-Spanish&campaigntype=Search&portfolio=Bing-ROW-Spanish&language=ES&product=Course&test=&audience=DSA&topic=&priority=Gamma&utm_content=deal4584&utm_term=._ag_1324913899917307.ad._kw_udemy.de_c.dm._pl._ti_dat-2334606783827001:loc-43.li_142124.pd.&matchtype=b&msclkid=41e6022634921f17d32c6502d51843ee",
+      "Categoria": "Lenguaje de programacion"
+     },
+     {
+      "Nombre": "JAVA",
+      "Descripcion": "Portal udemy cursos",
+      "Url": "https://www.udemy.com/es/topic/java/free/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-Search_DSA_GammaCatchall_NonP_la.ES_cc.ROW-Spanish&campaigntype=Search&portfolio=Bing-ROW-Spanish&language=ES&product=Course&test=&audience=DSA&topic=&priority=Gamma&utm_content=deal4584&utm_term=._ag_1324913899917307.ad._kw_udemy.de_c.dm._pl._ti_dat-2334606783827001:loc-43.li_142124.pd.&matchtype=b&msclkid=41e6022634921f17d32c6502d51843ee",
+      "Categoria": "Lenguaje de programacion"
+     },
+     {
+      "Nombre": "PHP",
+      "Descripcion": "Portal udemy cursos de php",
+      "Url": "https://www.udemy.com/es/topic/php/free/",
+      "Categoria": "lenguaje de programacion"
+     },
+     {
+      "Nombre": "PHP",
+      "Descripcion": "Portal udemy cursos de php",
+      "Url": "https://www.udemy.com/es/topic/php/free/",
+      "Categoria": "lenguaje de programacion"
+     },
+     {
+      "Nombre": "PYTHON ",
+      "Descripcion": "Portal Freecodecam cursos python",
+      "Url": "https://www.freecodecamp.org/espanol/news/aprende-a-programar-en-python-desde-cero-curso-completo-gratis/",
+      "Categoria": "lenguaje de programacion"
+     },
+     {
+      "Nombre": "PYTHON ",
+      "Descripcion": "Portal Edutin cursos python",
+      "Url":"https://edutin.com/curso-de-python/",
+      "Categoria": "lenguaje de programacion"
+     },
+     {
+      "Nombre": "NODE.JS",
+      "Descripcion": "Curso gratis",
+      "Url": "https://edutin.com/curso-de-node-js-3760/",
+      "Categoria": "Framework"
+     },
+     {
+      "Nombre": "NODE.JS",
+      "Descripcion": "Curso gratis",
+      "Url": "https://edutin.com/curso-de-node-js-3760/",
+      "Categoria": "Framework"
+     },
+     {
+      "Nombre": "REACT",
+      "Descripcion": "Portal CodeAcademy cursos react",
+      "Url": "https://www.codecademy.com/learn/react-101?utm_id=t_kwd-78753111516452:loc-43:ag_1260041133481856:cp_370379643:n_o:d_c&msclkid=a304df24eded15d30c1fb80834012818&utm_source=bing&utm_medium=cpc&utm_campaign=ROW%20-%20Broad&utm_term=course%20reactjs&utm_content=react/",
+      "Categoria": "Framework"
+     },
+     {
+      "Nombre": "SQL",
+      "Descripcion": "Portal Coursera cursos sql",
+      "Url": "https://www.coursera.org/professional-certificates/google-data-analytics?utm_medium=sem&utm_source=bg&utm_campaign=B2C_LATAM_analisis-de-datos-de-google_google_FTCOF_professional-certificates_countrygroup-1-language-es&campaignid=662743815&adgroupid=1252345059267577&device=c&keyword=curso%20en%20analisis%20de%20datos&matchtype=b&network=o&devicemodel=&adposition=&creativeid=&hide_mobile_promo&msclkid=2d4c23c90c5018d5ba9f44e5ece5c9c4&utm_term=curso%20en%20analisis%20de%20datos&utm_content=All%20KWs",
+      "Categoria": "BD"
+     }
+    ]
+    }
